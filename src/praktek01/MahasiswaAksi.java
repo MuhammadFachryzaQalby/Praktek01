@@ -6,5 +6,7 @@ public class MahasiswaAksi {
         Fahri.nama="Muhammad Fahcryza Qalby";
         Fahri.NPM="2110010104";
         Fahri.IPK=3.5;
+
+        Fahri.cetakInfo();
     }
 }
